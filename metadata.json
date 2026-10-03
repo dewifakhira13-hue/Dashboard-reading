@@ -1,0 +1,6 @@
+{
+  "name": "AI English Reading Teacher Dashboard",
+  "description": "Professional AI-powered English Reading Teacher Dashboard for junior high school teachers, integrating Google Apps Script and pedagogical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
